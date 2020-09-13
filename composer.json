@@ -12,6 +12,9 @@
     ],
     "repositories": [
         {
+            "type": "composer",
+            "url": "https://wpackagaist.org"
+        },{
             "type": "vcs",
             "url": "https://github.com/WookPlay/m2-wompi"
         }
